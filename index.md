@@ -1,4 +1,4 @@
-* Building a Peloton App
+# Building a Peloton App  (2020)
 
 COVID19 caused a turning point for myself, this site is to document a project that transformed me.
 
@@ -22,7 +22,7 @@ The Bike is super expensive both for the bike itself but also for the monthly su
 
 I realized on looking at the website that Peloton have an IPad/IPhone app, I downloaded the app and signed up for a 30 day free trail. I'm not going to give a review of the App, other than to say after the 30 day free trial its, £13 a month to continue to subscribe.
 
-* Using the Official Peloton App
+# Using the Official Peloton App
 
 Using the App is likely not the same as using the bike, there are alot of bike featues you don't get. But it can be made a little better by buying a heart rate monitor (Wahoo TICKR) and a candence sensort (Wahoo Cadence)
 
@@ -51,7 +51,7 @@ The Peloton App has lots of other benefits, other classes etc, but I'm not going
 By this time I was starting to loose weight, I didn't change anything else in my life, we were in lock down, I was eating about the same and doing no extra exercise other than the bike, every day for 30-60 minutes. My weight came off really slowly, but it was coming down. (I still have a long way to go), but 18 stone because 17 and then into the 16... towards 15...
 
 
-* Adding Power
+# Adding Power
 
 Now my interest in Cycling was sparked I started to look around to see if there were other tools I could use to motivate me, (as Acutally the App alone your motivation can drop off becuase there are no goals or targets to beat). Whilst looking at Zwift I realized they also use power but that power comes from Power Meters normally on a bike (Crank or PowerPedals)
 
@@ -79,7 +79,7 @@ https://apps.apple.com/gb/app/powertap-mobile/id672266418
 
 The Assioma PowerPedals actually have a built in Cadence Sensor so you don't need the Wahoo one above (I actually never tied pairing that with the Peloton App, because I run the App on my IPad and the PowerTap app on my IPhone at the same time.
 
-* The need for Speed
+# The need for Speed
 
 Having the PowerTap app, means I could record speed and distance, I went back to my Wahoo Speed sensor, and attached that to the bike (which was a challenge in itself because its really made for a real bike), This means the PowerTap now records my speed and distance.
 
@@ -95,7 +95,7 @@ There was no real reason why I chose one over the other, I was mainly looking fo
 
 I still used some additional elastic to secure the ipad because it was expensive and I don't trust the holders 100%. I keep looking for more secure metal solutions as these are all plastic, but both have a clamp mechanism that tighten really hard onto the handle bars, its the support at the front holding the screen that I have little faith in.
 
-* Bring on my own leaderboard
+# Bring on my own leaderboard
 
 So now I have Power readings and total energy readings I can keep my own records for my own personal bests.
 
@@ -107,7 +107,7 @@ In the end of the day, I decide this was about racing against myself not against
 
 To be honest adding the power pedals and the record keeping really did it for me, it took the Peloton App to another level, allowing me to really push myself. 
 
-* Other Items
+# Other Items
 
 Along the way I purchase someother items,
 
@@ -123,7 +123,7 @@ A water bottle is a must (and holder if you do't have one), some weights like th
 
 https://www.amazon.co.uk/PROIRON-neoprene-dumbbell-2x-5kg/dp/B01C9P0S6E/ref=sr_1_6?dchild=1&keywords=dumbbells&qid=1599214593&sr=8-6
 
-* Peloton Companion App
+# Peloton Companion App
 
 As someone who studied Electronics at Degree and is a Software Engineer, I have a general interested in all things technical, my Peloton App setup is near perfect, my only problem is that Peloton do not very often update the App and despite taking improvement suggestions most seem to be ignored.
 
@@ -149,13 +149,13 @@ Until Peloton App addes some of this information , I decided I'd use this opport
 
 This is what I want to document here, the process with which I went through.
 
-* Concept
+# Concept
 
 The initial concept is to produce an "Peloton Companion App" which could be used alongside the main Peloton App and record Bike Information, to allow me to see the data whilst I ride and to allow post ride inspection.
 
 By starting a ride and starting the "Companion" at the beginning of a ride, I could track that information, in particular I could record my PBs (this is really just an extension of the PowerTap app).
 
-* Bike Sensors
+# Bike Sensors
 
 Most bike sensors support bluetooth, as does the heart rate sensor, I had now idea how easy/hard this would be to integrate, so I started watching Youtube video about integrating with BlueTooth sensors.
 
