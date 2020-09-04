@@ -60,11 +60,11 @@ On the Bike the Peloton Leadersboard is driven by your "Output", sometimes they 
 
 ![Leaderboard](images/leaderboard.gif){:width="200px"}
 
-Resisance is normally just a rubber pad that pushes against the fly wheel of the Bike, the more Resistance you apply the harder it gets. The Peloton Bike obviously knows how much resistance (0-100%) you are applying when you turn that knob, and they combine that with the candence to come up with a "Power/Output" number
+Resisance is normally just a (rubber pad that pushes against or a magnet gets closer to) the fly wheel of the Bike, the more Resistance you apply the harder it gets. The Peloton Bike obviously knows how much resistance (0-100%) you are applying when you turn that knob, and they combine that with the candence to come up with a "Power/Output" number
 
 ![Resistance](images/resistance.png){:width="200px"}
 
-By keeping track of power over time they can determine the Enegrgy or Total Work of a ride.
+By keeping track of power over time they can determine the Energy or "Total Work" of a ride.
 
 So what make the Peloton Bike so great is once they have this "Power" reading they can build lots of gamification using it, Personal Bests, Leaderboard, PowerZone etc.. all of this is missing from the Peloton App because they don't measure Power from non Peloton Bikes because they can't measure Resistance.
 
@@ -83,24 +83,24 @@ PowerMeters for bikes come in 2 forms, Crank and Pedals (there could be others, 
 
 I settled on the Assioma Uno, this gives you a recording on the left pedal that can be doubled up to look like 2 pedal, you just don't get Power Balance readings
 
-![Pedals](images/pedals.jpg)
+![Pedals](images/pedals.jpg){:width="200px"}
 [Pedals - Amazon Link](https://www.amazon.co.uk/Assioma-Pedal-Based-Power-Meter/dp/B072JYW6ZX/ref=sr_1_2?dchild=1&keywords=power+pedals&qid=1599212957&sr=8-2)
 
 These pedals use clip in shoes (I'd never used those before), so I purchased a pair of reasonable cheap cycling shoes.
 
-![Shoes](images/shoes.jpg)
+![Shoes](images/shoes.jpg){:width="200px"}
 [Cycling Shoes](https://www.amazon.co.uk/gp/product/B015RJIJRE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 you may need some cleats to match
 
-![Cleats](images/cleats.jpg)
+![Cleats](images/cleats.jpg){:width="200px"}
 [Cleats](https://www.amazon.co.uk/BV-Cleats-Compatible-Delta-Degree/dp/B01B8P8FL6/ref=sr_1_5?crid=3AIXB6GDHYS1X&dchild=1&keywords=delta+cleats&qid=1599213157&sprefix=Delta+Cl%2Caps%2C152&sr=8-5)
 
 Having the power pedals doesn't change the way the Peloton App works (sadly), there is no support in the ipad or iphone app to add them, but they can be combined with a cycle computer or an iphone app to give you a power reading.
 
 I actually used the PowerTap iphone app, this was Free and allowed me to show multiple readings
 
-![Power Tap App](images/powertap.jpg){:width="200px"}
+![Power Tap App](images/powertap.png){:width="200px"}
 [Power Tap App](https://apps.apple.com/gb/app/powertap-mobile/id672266418)
 
 The Assioma PowerPedals actually have a built in Cadence Sensor so you don't need the Wahoo one above (I actually never tied pairing that with the Peloton App, because I run the App on my IPad and the PowerTap app on my IPhone at the same time.
@@ -111,13 +111,15 @@ Having the PowerTap app, means I could record speed and distance, I went back to
 
 All of this gets kind of cluttered so I purchased holders to hold both on the bike, for the ipad I use
 
-https://www.amazon.co.uk/gp/product/B083JSYGWD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+![IPad Holder](images/holder1.png){:width="200px"}
+[IPad Holder](https://www.amazon.co.uk/gp/product/B083JSYGWD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 and for the phone I picked
 
-https://www.amazon.co.uk/gp/product/B07LGYPLP5/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+![IPhone Holder](images/holder2.png){:width="200px"}
+[IPhone Holder](https://www.amazon.co.uk/gp/product/B07LGYPLP5/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 
-There was no real reason why I chose one over the other, I was mainly looking for something that would hold both tight, as when you are riding especially out of the sadle the bike can shake a little and I didn't want them to fall off. 
+There was no real reason why I chose one over the other, I think the second one could have been used for both. I was mainly looking for something that would hold both tight, as when you are riding especially out of the sadle the bike can shake a little and I didn't want them to fall off. 
 
 I still used some additional elastic to secure the ipad because it was expensive and I don't trust the holders 100%. I keep looking for more secure metal solutions as these are all plastic, but both have a clamp mechanism that tighten really hard onto the handle bars, its the support at the front holding the screen that I have little faith in.
 
@@ -125,11 +127,12 @@ I still used some additional elastic to secure the ipad because it was expensive
 
 So now I have Power readings and total energy readings I can keep my own records for my own personal bests.
 
-https://www.amazon.co.uk/gp/product/B07FZKXJMK/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+![My Leaderboard](images/myleaderboard.jpg){:width="200px"}
+[Crude Leaderboard](https://www.amazon.co.uk/gp/product/B07FZKXJMK/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 
-The accuracy of the Peloton bike is probably slightly at question, the leader boards often have people at the top who are either super human or more likely their bike is poorly calibrated, its not unusal for the person in 1st place to be 2-3x the power of everyone else.. (yeah right!)
+The accuracy of any Peloton bike is probably slightly at question, Most people say the studio bikes are different from their home bikes. The leader boards often have people at the top who are either super human or more likely their bike is poorly calibrated, its not unusal for the person in 1st place to be 2-3x the power of everyone else.. (yeah right!)
 
-In the end of the day, I decide this was about racing against myself not against others, this was motivation enough for me. It means i can keep records for 10,15,20,30,45,60 minute rides and I use those numbers as my personal PB.
+At the end of the day, I decided this was about racing against myself not against others, this was motivation enough for me. It means i can keep records for 10,15,20,30,45,60 minute rides and I use those numbers as my personal PB, and I'm finding over time I'm pushing those records up by 10 or so Kj everytime I break a personal best. At present as I get fitter I don't break them every time, it has to be a concerted effort to choose to go for it. But that is fun too. (Right?)
 
 To be honest adding the power pedals and the record keeping really did it for me, it took the Peloton App to another level, allowing me to really push myself. 
 
@@ -137,9 +140,10 @@ To be honest adding the power pedals and the record keeping really did it for me
 
 Along the way I purchase someother items,
 
-A really large fan (I mean its huge!), but totally awesome, my advice is make sure whatever fan you purchase its remote control
+A really large fan (I mean its huge! about the size of a car tyre), but totally awesome, my advice is make sure whatever fan you purchase its remote control
 
-https://www.amazon.co.uk/BXFF53001GB-Velocity-Mountable-Circulator-Control/dp/B084XM72T8/ref=sr_1_4?crid=1BRA0RK0LHTK0&dchild=1&keywords=fan+black+and+decker&qid=1599214294&sprefix=Fan+Black+and+De%2Caps%2C151&sr=8-4
+![Fan](images/fan.jpg){:width="200px"}
+[Fan](https://www.amazon.co.uk/BXFF53001GB-Velocity-Mountable-Circulator-Control/dp/B084XM72T8/ref=sr_1_4?crid=1BRA0RK0LHTK0&dchild=1&keywords=fan+black+and+decker&qid=1599214294&sprefix=Fan+Black+and+De%2Caps%2C151&sr=8-4)
 
 I know people use a smart plug to turn it on, but this one comes with a remote  so you can control the speed. (like I said this is massive but toally amazing) and you need it because once you start pushing PBs you really sweat a whole load more..
 
