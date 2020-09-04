@@ -9,10 +9,10 @@ I suffer from high blood pressure, following a trip to the opticions he advise I
 I'm a techie kind of guy so I'd purchased kit to measure all this stuff, I knew when I was putting on too much weight and what my PB was.
 
 ![Blood Pressure Monitor](images/bpmonitor.jpg) <!-- .element height="200" width="200" -->
-https://www.amazon.co.uk/Withings-Nokia-BPM-Wireless-Pressure/dp/B071RTV3WY/ref=sr_1_42?dchild=1&keywords=blood+pressure+machines+arm+iphone&qid=1599212774&sr=8-42
+[Blood Pressure Monitor  - Amazon Link](https://www.amazon.co.uk/Withings-Nokia-BPM-Wireless-Pressure/dp/B071RTV3WY/ref=sr_1_42?dchild=1&keywords=blood+pressure+machines+arm+iphone&qid=1599212774&sr=8-42)
 
 ![Scales](images/scales.jpg) <!-- .element height="200" width="200" -->
-https://www.amazon.co.uk/gp/product/B0084LF0L6/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1
+[Weight Scales - Amazon Link](https://www.amazon.co.uk/gp/product/B0084LF0L6/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
 
 I've run semi regularly for a decade, but again I found this very hard, I'd get so exhausted and saw no real drop in weight. Over the years I dropped my distance from Half Marathons -> 10K -> 5K and although I like to take part, I'm slow and that in part likely because I'm carrying alot more weight than everyone else.
 
