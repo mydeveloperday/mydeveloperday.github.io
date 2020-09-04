@@ -8,8 +8,10 @@ I suffer from high blood pressure, following a trip to the opticions he advise I
 
 I'm a techie kind of guy so I'd purchased kit to measure all this stuff, I knew when I was putting on too much weight and what my PB was.
 
+![Blood Pressure Monitor](images/bpmonitor.jpg)
 https://www.amazon.co.uk/Withings-Nokia-BPM-Wireless-Pressure/dp/B071RTV3WY/ref=sr_1_42?dchild=1&keywords=blood+pressure+machines+arm+iphone&qid=1599212774&sr=8-42
 
+![Scales](images/scales.jpg)
 https://www.amazon.co.uk/gp/product/B0084LF0L6/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1
 
 I've run semi regularly for a decade, but again I found this very hard, I'd get so exhausted and saw no real drop in weight. Over the years I dropped my distance from Half Marathons -> 10K -> 5K and although I like to take part, I'm slow and that in part likely because I'm carrying alot more weight than everyone else.
@@ -26,7 +28,7 @@ I realized on looking at the website that Peloton have an IPad/IPhone app, I dow
 
 Using the App is likely not the same as using the bike, there are alot of bike featues you don't get. But it can be made a little better by buying a heart rate monitor (Wahoo TICKR) and a candence sensort (Wahoo Cadence)
 
-https://www.amazon.co.uk/Wahoo-TICKR-Heart-Monitor-Bluetooth/dp/B00INQVYZ8/ref=sxts_sxwds-bia-wc-p13n1_0?crid=M2WMBKYV1ZJF&cv_ct_cx=tickr+heart+rate+monitor&dchild=1&keywords=tickr+heart+rate+monitor&pd_rd_i=B00INQVYZ8&pd_rd_r=6f1c1ea4-45de-448f-8558-8d38029d2ebf&pd_rd_w=kNylq&pd_rd_wg=tF9QX&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=35FRCT1Z5QMZHM7XJ173&psc=1&qid=1599211385&sprefix=Tickr%2Caps%2C148&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618
+https://www.amazon.co.uk/Wahoo-TICKR-Heart-Monitor-Bluetooth/dp/B00INQVYZ8/ref=sxts_sxwds-bia-wc-p13n1_0?crid=M2WMBKYV1ZJF&cv_ct_cx=tickr+heart+rate+monitor&dchild=1&keywords=tickr+heart+rate+monitor&pd_rd_i=B00INQVYZ8&pd_rd_r=6f1c1ea4-45de-448f-8558-8d38029d2ebf&pd_rd_w=kNylq&pd_rd_wg=tF9QX&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=35FRCT1Z5QMZHM7XJ173&psc=1&qid=1599211385&sprefix=Tickr%2Caps%2C148&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618)
 
 https://www.amazon.co.uk/Wahoo-Cadence-Sensor-Android-Computers/dp/B00L9XNFPY/ref=sxts_sxwds-bia-wc-p13n1_0?crid=QZ28HMWLI496&cv_ct_cx=wahoo+cadence+sensor&dchild=1&keywords=wahoo+cadence+sensor&pd_rd_i=B00L9XNFPY&pd_rd_r=0e77b4b5-04fe-4b62-aa97-ff34503ffd85&pd_rd_w=8V2om&pd_rd_wg=KI0cV&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=B6563MKQQVS60X52N6EN&psc=1&qid=1599211436&sprefix=wahoo%2Caps%2C167&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618
 
