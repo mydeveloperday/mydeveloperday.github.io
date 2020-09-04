@@ -227,9 +227,9 @@ There are in myview a number of key requirements
 
 Most bike sensors support bluetooth, as does the heart rate sensor, I had now idea how easy/hard this would be to integrate, so I started watching Youtube video about integrating with BlueTooth sensors. This chap got me into understanding where to start more of a guide as to what classes were needed
 
-[Angel Six](https://www.youtube.com/watch?v=r2e2bmcfdL0&t=181s)
-[Angel Six](https://www.youtube.com/watch?v=dNLV8dZj9B0&t=1469s)
-[Angel Six](https://www.youtube.com/watch?v=RVasdDtgLKY&t=1157s)
+[![Angel Six](https://img.youtube.com/vi/r2e2bmcfdL0/0.jpg)](https://www.youtube.com/watch?v=r2e2bmcfdL0)
+[![Angel Six](https://img.youtube.com/vi/dNLV8dZj9B0/0.jpg)](https://www.youtube.com/watch?v=dNLV8dZj9B0)
+[![Angel Six](https://img.youtube.com/vi/RVasdDtgLKY/0.jpg)](https://www.youtube.com/watch?v=RVasdDtgLKY)
 
 It turns out that BlueTooth sensors use a standard specification, GATT Services which describe both the types of information and how to read that information based on standard GATT Charatistics. (https://www.bluetooth.com/specifications/gatt/)
 
@@ -263,11 +263,11 @@ Ultimaltey I felt that I would likely have to press start on my app, at the time
 
 The ideal would be if there was some API to Peloton that let you read information about a ride, I'd been following Peloton on a number social media platforms and I started seeing a few topics of people wanting to get the information in order to analyse their performance or convert to some other fitness app, or even run mini leagues of riders.
 
-https://www.reddit.com/r/pelotoncycle/comments/8kcw77/feature_request_api_data_access/
+[Reddit Thread](https://www.reddit.com/r/pelotoncycle/comments/8kcw77/feature_request_api_data_access/)
 
 I followed some of these threads and often it would lead to various github references, in the end it turned out that Peloton had their own github page
 
-![Peloton Github](images/github.png){:width="200px"}
+![Peloton Github](images/github.png){:width="400px"}
 
 This gave me hope that Peloton where an open minded company, they clearly used open source themselves. Of course these packages are really just what they use its not the source code of their app. but its still encouraging.
 
