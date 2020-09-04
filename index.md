@@ -29,8 +29,8 @@ The Bike is super expensive both for the bike itself but also for the monthly su
 
 I realized on looking at the website that Peloton have an IPad/IPhone app, I downloaded the app and signed up for a 30 day free trail. I'm not going to give a review of the App, other than to say after the 30 day free trial its, £13 a month to continue to subscribe.
 
+![30 Day Free Trial](images/freetrial.png){:width="300px"}
 [Peloton App Free Trial](https://www.onepeloton.co.uk/app)
-![30 Day Free Trial](images/freetrial.png){:width="200px"}
 
 
 # Using the Official Peloton App
@@ -43,19 +43,28 @@ Using the App is likely not the same as using the bike, there are alot of bike f
 ![Wahoo Cadence Sensor](images/cadence.jpg){:width="200px"}
 [Wahoo Cadence](https://www.amazon.co.uk/Wahoo-Cadence-Sensor-Android-Computers/dp/B00L9XNFPY/ref=sxts_sxwds-bia-wc-p13n1_0?crid=QZ28HMWLI496&cv_ct_cx=wahoo+cadence+sensor&dchild=1&keywords=wahoo+cadence+sensor&pd_rd_i=B00L9XNFPY&pd_rd_r=0e77b4b5-04fe-4b62-aa97-ff34503ffd85&pd_rd_w=8V2om&pd_rd_wg=KI0cV&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=B6563MKQQVS60X52N6EN&psc=1&qid=1599211436&sprefix=wahoo%2Caps%2C167&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618)
 
-You don't need a Speed Sensor (for the App) as it won't record Speed and Distance (unlike the Bike)
+You don't need a Speed Sensor (for the App) as it won't record Speed and Distance (unlike the Bike) (Cadence and Speed sometimes come bundled together)
 
-https://www.amazon.co.uk/Wahoo-Cadence-Sensor-Android-Computers/dp/B01E0YRQIA/ref=sr_1_3?dchild=1&keywords=wahoo+cadence+sensor+and+speed&qid=1599211498&sr=8-3
+![Wahoo Speed Sensor](images/speed.jpg){:width="200px"}
+[Wahoo Speed Sensor](https://www.amazon.co.uk/Wahoo-Cadence-Sensor-Android-Computers/dp/B01E0YRQIA/ref=sr_1_3?dchild=1&keywords=wahoo+cadence+sensor+and+speed&qid=1599211498&sr=8-3)
 
 But the App works just fine, and keeping up with the candence called out by the Instructor is excellent, and I pretty much used the bike EVERY day, doing at least one ride.
 
-This is super enjoyable, I became completely addicted, but something definately was missing..They talk about the leaderboard but the App just has a list of people who are in the ride with you. (The Feed)
+This is super enjoyable, I became completely addicted, but something definately was missing..They talk about the leaderboard but in the App it is just has a list of people who are in the ride with you. (The Feed and any milestones other riders have gotten to)
 
-Peloton Leadersboard is driven by your "Output", sometimes they call it "Total Work", but this is really the amount of Kj (KiloJoules) you are exerting during the ride, I don't believe the Peloton bike actually measure power directly via a PowerMeter but they have an "Equation" which combines Cadence with Resistance.
+On the Bike the Feed is on the LHS of the screen, in the App its on the RHS where the Leaderboard would be.
 
-Resisance is normally just a rubber pad that pushes against the fly wheel of the Bike, the more Resistance you apply the harder it gets. The Peloton Bike obviously knows how much resistance (0-100%) you are applying, and they combine that with the candence to come up with a "Power" number
+![Feed](images/feed.png){:width="200px"}
 
-By keeping track of power over time they can determine the Enegrgy or Output of a ride.
+On the Bike the Peloton Leadersboard is driven by your "Output", sometimes they call it "Total Work", but this is really the amount of Kj (KiloJoules) you are exerting during the ride, I don't believe the Peloton bike actually measure power directly via a PowerMeter but they have an "Equation" which combines Cadence with Resistance.
+
+![Leaderboard](images/leaderboard.gif){:width="200px"}
+
+Resisance is normally just a rubber pad that pushes against the fly wheel of the Bike, the more Resistance you apply the harder it gets. The Peloton Bike obviously knows how much resistance (0-100%) you are applying when you turn that knob, and they combine that with the candence to come up with a "Power/Output" number
+
+![Resistance](images/resistance.png){:width="200px"}
+
+By keeping track of power over time they can determine the Enegrgy or Total Work of a ride.
 
 So what make the Peloton Bike so great is once they have this "Power" reading they can build lots of gamification using it, Personal Bests, Leaderboard, PowerZone etc.. all of this is missing from the Peloton App because they don't measure Power from non Peloton Bikes because they can't measure Resistance.
 
@@ -74,21 +83,25 @@ PowerMeters for bikes come in 2 forms, Crank and Pedals (there could be others, 
 
 I settled on the Assioma Uno, this gives you a recording on the left pedal that can be doubled up to look like 2 pedal, you just don't get Power Balance readings
 
-https://www.amazon.co.uk/Assioma-Pedal-Based-Power-Meter/dp/B072JYW6ZX/ref=sr_1_2?dchild=1&keywords=power+pedals&qid=1599212957&sr=8-2
+![Pedals](images/pedals.jpg)
+[Pedals - Amazon Link](https://www.amazon.co.uk/Assioma-Pedal-Based-Power-Meter/dp/B072JYW6ZX/ref=sr_1_2?dchild=1&keywords=power+pedals&qid=1599212957&sr=8-2)
 
 These pedals use clip in shoes (I'd never used those before), so I purchased a pair of reasonable cheap cycling shoes.
 
-https://www.amazon.co.uk/gp/product/B015RJIJRE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+![Shoes](images/shoes.jpg)
+[Cycling Shoes](https://www.amazon.co.uk/gp/product/B015RJIJRE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 you may need some cleats to match
 
-https://www.amazon.co.uk/BV-Cleats-Compatible-Delta-Degree/dp/B01B8P8FL6/ref=sr_1_5?crid=3AIXB6GDHYS1X&dchild=1&keywords=delta+cleats&qid=1599213157&sprefix=Delta+Cl%2Caps%2C152&sr=8-5
+![Cleats](images/cleats.jpg)
+[Cleats](https://www.amazon.co.uk/BV-Cleats-Compatible-Delta-Degree/dp/B01B8P8FL6/ref=sr_1_5?crid=3AIXB6GDHYS1X&dchild=1&keywords=delta+cleats&qid=1599213157&sprefix=Delta+Cl%2Caps%2C152&sr=8-5)
 
 Having the power pedals doesn't change the way the Peloton App works (sadly), there is no support in the ipad or iphone app to add them, but they can be combined with a cycle computer or an iphone app to give you a power reading.
 
 I actually used the PowerTap iphone app, this was Free and allowed me to show multiple readings
 
-https://apps.apple.com/gb/app/powertap-mobile/id672266418
+![Power Tap App](images/powertap.jpg){:width="200px"}
+[Power Tap App](https://apps.apple.com/gb/app/powertap-mobile/id672266418)
 
 The Assioma PowerPedals actually have a built in Cadence Sensor so you don't need the Wahoo one above (I actually never tied pairing that with the Peloton App, because I run the App on my IPad and the PowerTap app on my IPhone at the same time.
 
