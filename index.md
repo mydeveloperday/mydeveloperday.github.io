@@ -1,8 +1,8 @@
-# Building a Peloton App  (2020)
+# Building a Peloton Companion App  (2020)
 
-COVID19 caused a turning point for myself, this site is to document a project that transformed me.
+During the 2020 COVID lockdown, I took up indoor cycling as my exercise, below is the account of what I did during those many months, how I enjoyed it, how it improved my health and how I have gone on to make this into a hobby project.
 
-I'm a 50+ software developer who has a very sedentary life, as such at the beginning of 2020 I was closer to 18 stone than I'd like to admit. I have a gym membership but I found it increasingly hard to get myself to the gym more than one or twice a week and I wasn't really loosing any weight.
+I'm a 50+ software developer who has a very sedentary job, as such at the beginning of 2020 I was closer to 18 stone than I'd like to admit. I have a gym membership but I found it increasingly hard to get myself to the gym more than one or twice a week and I wasn't really loosing any weight from my visits
 
 I suffer from high blood pressure, following a trip to the opticions he advise I see a doctor my blood pressure was very high it wasn't unusal for it to be 180/115, I'd often feel flushed in the face. Ther doctor put me on medication and although this seems partially an inherited disorder (both my parents take medication) I struggled to get it down much below 130/90, The medication also had side effect of making my legs swell. I just didn't feel good especially when I had to travel abroad
 
@@ -186,9 +186,50 @@ The initial concept is to produce an "Peloton Companion App" which could be used
 
 By starting a ride and starting the "Companion" at the beginning of a ride, I could track that information, in particular I could record my PBs (this is really just an extension of the PowerTap app).
 
+# Learning Technology
+
+Before diving into explaining how I created my app there were a number of items I needed to investigate.
+
+1) Bike Sensors
+2) BlueTooth
+3) Peloton API (if one existed)
+
+There were technologies I wanted to learn as part of this (or I would need)
+
+1) IoT
+2) Rasberry PI
+3) WPF
+4) VLC
+5) UWP
+
+# Platform
+
+My initial aim was not really to develop an App in the sense we would know like and IOS or Android App but just an application running on an old Windows Tablet (HP Spectre 360) I had lying around and wasn't using
+
+Becuase this is a windows tablet I decided I'd write the code in C#, I know C# and wanted to improve my skills especially around the use of Task,async and await especially with UI
+
+All my UI work before had been MFC and WinForms so I wanted to learn WPF (Windows Presentation Foundation), and I wanted to understand if i could use UWP (Universal Windows Platform)
+
+Ultimately at least the initial work was driven by what I could learn and what hardware I had.. as we go on you'll see I ended up learning a variety of things. (some of these lists were compiled after the fact)
+
+# Introduction
+
+The format of this document is pretty free flow, I coverthings in roughtly the order I encountered them.
+
+There are in myview a number of key requirements
+
+1) How do I gather the information from bike (Bike Sensors)
+2) How can I talk to Peloton API to determine information about the ride I'm on (Rest API)
+3) How could I synchronise the Companion with the class I'm currently taking (App Design)
+4) How could I gather information that I don't currently have access to. (Resistance)
+
 # Bike Sensors
 
-Most bike sensors support bluetooth, as does the heart rate sensor, I had now idea how easy/hard this would be to integrate, so I started watching Youtube video about integrating with BlueTooth sensors.
+Most bike sensors support bluetooth, as does the heart rate sensor, I had now idea how easy/hard this would be to integrate, so I started watching Youtube video about integrating with BlueTooth sensors. This chap got me into understanding where to start more of a guide as to what classes were needed
+
+[Angel Six](https://www.youtube.com/watch?v=r2e2bmcfdL0&t=181s)
+[Angel Six](https://www.youtube.com/watch?v=dNLV8dZj9B0&t=1469s)
+[Angel Six](https://www.youtube.com/watch?v=RVasdDtgLKY&t=1157s)
 
 It turns out that BlueTooth sensors use a standard specification, GATT Services which describe both the types of information and how to read that information based on standard GATT Charatistics. (https://www.bluetooth.com/specifications/gatt/)
 
@@ -197,6 +238,40 @@ As it turns out there are  a number of standard Gatt Specifications for all kind
 Its these specification that allow people to build sensors that can be used by any app that needs access to a certain type of sensor. The specifications can be hard to read at first (spec speack), but by starting at something simple like a heart beat monitor it becomes a little easier over time
 
 It wasn't long before i'd built a small C# application to read my heart rate from the Wahoo Tickr.
+
+The principle behind the code that reads my heart rate is similar in concept to what is needed to read Speed/Cadence/Power from the bike, fundamentally its more about knowing which services you are looking for.
+
+The hardest part about using BlueTooth espeically sensors, is that I don't pair with them. The key part is you need to discover the devices (ignoring all your other noisy devices like speakers,phones,ipads etc) and get a list of connections.
+
+Ultimately I broke this down into a number secitons, one to find the devices, one to check if they supported the "SportsServices" I was looking for, once I'd found a sensor that had the capability I remembered its address.
+
+When the App runs I pull up that address from the settings and connect to it, assuming thats possible still, I can then read at a regular tick interval the information from it. Doing so gives me information such as instaneous heart rate/speed/cadence/power, I can then use those readings over time to build up a performance graph.
+
+At present this was the initial goal, and I didn't need a UI to perform that, just simply record the readings based on time from when I started the app.
+
+Having the readings is one thing (and believe me even that wasn't trivial to get to be stable, and I'm still working on improving it), is  one thing but really you want to synchronise that with the ride.
+
+A host of questions came up as I thought about how I'd interact...
+
+1) How would I know which ride I was doing
+2) How would I know when the ride started
+3) Could I determine were I'd be on the leader board
+
+Ultimaltey I felt that I would likely have to press start on my app, at the time the ride started, actually this wouldn't be too hard given that most rides have a warm up where they explain how its all going to work, (which dial is which etc..) for those of us in the App, this part is wasted because we don't have the same numbers in the same positions as the bike users, but I understand they are catering for them.
+
+# Peloton REST API
+
+The ideal would be if there was some API to Peloton that let you read information about a ride, I'd been following Peloton on a number social media platforms and I started seeing a few topics of people wanting to get the information in order to analyse their performance or convert to some other fitness app, or even run mini leagues of riders.
+
+https://www.reddit.com/r/pelotoncycle/comments/8kcw77/feature_request_api_data_access/
+
+I followed some of these threads and often it would lead to various github references, in the end it turned out that Peloton had their own github page
+
+![Peloton Github](images/github.png){:width="200px"}
+
+This gave me hope that Peloton where an open minded company, they clearly used open source themselves. Of course these packages are really just what they use its not the source code of their app. but its still encouraging.
+
+
 
 
 
