@@ -20,17 +20,28 @@ A couple of years ago my wife brought me a normal exercise bike as a present, it
 
 After a work trip to the states, I came home having put on another 4lbs (those massive portions and too much beer), I decided i needed to do something about it. About that time there was alot of hype about the Peloton Add in the States and  TV adverts were showing for Peloton here in the UK
 
+![Peloton Advert](https://www.youtube.com/watch?v=ijof8uw4OHs)
+
+![Peloton UK Advert](https://www.youtube.com/watch?v=lVMG7lzRvuE)
+
+
 The Bike is super expensive both for the bike itself but also for the monthly subscription, I couldn't justify buying the bike when I had a £300+ bike already that I wasn't using very often.
 
 I realized on looking at the website that Peloton have an IPad/IPhone app, I downloaded the app and signed up for a 30 day free trail. I'm not going to give a review of the App, other than to say after the 30 day free trial its, £13 a month to continue to subscribe.
+
+![Peloton App Free Trial](https://www.onepeloton.co.uk/app)
+![30 Day Free Trial](images/freetrail.jpg){:width="200px"}
+
 
 # Using the Official Peloton App
 
 Using the App is likely not the same as using the bike, there are alot of bike featues you don't get. But it can be made a little better by buying a heart rate monitor (Wahoo TICKR) and a candence sensort (Wahoo Cadence)
 
-https://www.amazon.co.uk/Wahoo-TICKR-Heart-Monitor-Bluetooth/dp/B00INQVYZ8/ref=sxts_sxwds-bia-wc-p13n1_0?crid=M2WMBKYV1ZJF&cv_ct_cx=tickr+heart+rate+monitor&dchild=1&keywords=tickr+heart+rate+monitor&pd_rd_i=B00INQVYZ8&pd_rd_r=6f1c1ea4-45de-448f-8558-8d38029d2ebf&pd_rd_w=kNylq&pd_rd_wg=tF9QX&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=35FRCT1Z5QMZHM7XJ173&psc=1&qid=1599211385&sprefix=Tickr%2Caps%2C148&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618)
+![Wahoo TICKR](https://www.amazon.co.uk/Wahoo-TICKR-Heart-Monitor-Bluetooth/dp/B00INQVYZ8/ref=sxts_sxwds-bia-wc-p13n1_0?crid=M2WMBKYV1ZJF&cv_ct_cx=tickr+heart+rate+monitor&dchild=1&keywords=tickr+heart+rate+monitor&pd_rd_i=B00INQVYZ8&pd_rd_r=6f1c1ea4-45de-448f-8558-8d38029d2ebf&pd_rd_w=kNylq&pd_rd_wg=tF9QX&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=35FRCT1Z5QMZHM7XJ173&psc=1&qid=1599211385&sprefix=Tickr%2Caps%2C148&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618)
+![Wahoo Heart Rate Sensor](images/tickr.jpg){:width="200px"}
 
-https://www.amazon.co.uk/Wahoo-Cadence-Sensor-Android-Computers/dp/B00L9XNFPY/ref=sxts_sxwds-bia-wc-p13n1_0?crid=QZ28HMWLI496&cv_ct_cx=wahoo+cadence+sensor&dchild=1&keywords=wahoo+cadence+sensor&pd_rd_i=B00L9XNFPY&pd_rd_r=0e77b4b5-04fe-4b62-aa97-ff34503ffd85&pd_rd_w=8V2om&pd_rd_wg=KI0cV&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=B6563MKQQVS60X52N6EN&psc=1&qid=1599211436&sprefix=wahoo%2Caps%2C167&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618
+![Wahoo Cadence](https://www.amazon.co.uk/Wahoo-Cadence-Sensor-Android-Computers/dp/B00L9XNFPY/ref=sxts_sxwds-bia-wc-p13n1_0?crid=QZ28HMWLI496&cv_ct_cx=wahoo+cadence+sensor&dchild=1&keywords=wahoo+cadence+sensor&pd_rd_i=B00L9XNFPY&pd_rd_r=0e77b4b5-04fe-4b62-aa97-ff34503ffd85&pd_rd_w=8V2om&pd_rd_wg=KI0cV&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=B6563MKQQVS60X52N6EN&psc=1&qid=1599211436&sprefix=wahoo%2Caps%2C167&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618)
+![Wahoo Cadence Sensor](images/cadence.jpg){:width="200px"}
 
 You don't need a Speed Sensor (for the App) as it won't record Speed and Distance (unlike the Bike)
 
