@@ -30,7 +30,7 @@ The Bike is super expensive both for the bike itself but also for the monthly su
 I realized on looking at the website that Peloton have an IPad/IPhone app, I downloaded the app and signed up for a 30 day free trail. I'm not going to give a review of the App, other than to say after the 30 day free trial its, £13 a month to continue to subscribe.
 
 [Peloton App Free Trial](https://www.onepeloton.co.uk/app)
-![30 Day Free Trial](images/freetrial.jpg){:width="200px"}
+![30 Day Free Trial](images/freetrial.png){:width="200px"}
 
 
 # Using the Official Peloton App
