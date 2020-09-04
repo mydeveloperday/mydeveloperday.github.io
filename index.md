@@ -162,19 +162,19 @@ Most notably there were things that the ipad App was missing and these started t
 
 Here is a few of the things that I miss from the App some of which are in the Bike
 
-1) Power Pedal support
+1. Power Pedal support
         - PowerZones
         - LeaderBoard
         - PBs
 
-2) Spotify Integration
+2. Spotify Integration
     - Ability to add a song from a ride to a playlist whilst cycling
 
-3) Information about the "Cues" from the instructor onscreeen, if you don't have audio on you can't hear the 80-100 cadence shout out, and sometimes I just miss what they said
+3. Information about the "Cues" from the instructor onscreeen, if you don't have audio on you can't hear the 80-100 cadence shout out, and sometimes I just miss what they said
 
-4) Stats on how you are improving, how far you've gone (no speed sensor support)
+4. Stats on how you are improving, how far you've gone (no speed sensor support)
 
-5) I want to add all the rich information from the PowerTap app into my Peloton profile so I can see how I'm doing
+5. I want to add all the rich information from the PowerTap app into my Peloton profile so I can see how I'm doing
 
 Until Peloton App addes some of this information , I decided I'd use this opportunity and perhaps a little more coding time during COVID19 to start building an App that would let me at least gather this information.
 
@@ -190,17 +190,17 @@ By starting a ride and starting the "Companion" at the beginning of a ride, I co
 
 Before diving into explaining how I created my app there were a number of items I needed to investigate.
 
-1) Bike Sensors
-2) BlueTooth
-3) Peloton API (if one existed)
+1. Bike Sensors
+2. BlueTooth
+3. Peloton API (if one existed)
 
 There were technologies I wanted to learn as part of this (or I would need)
 
-1) IoT
-2) Rasberry PI
-3) WPF
-4) VLC
-5) UWP
+1. IoT
+2. Rasberry PI
+3. WPF
+4. VLC
+5. UWP
 
 # Platform
 
@@ -218,10 +218,10 @@ The format of this document is pretty free flow, I coverthings in roughtly the o
 
 There are in myview a number of key requirements
 
-1) How do I gather the information from bike (Bike Sensors)
-2) How can I talk to Peloton API to determine information about the ride I'm on (Rest API)
-3) How could I synchronise the Companion with the class I'm currently taking (App Design)
-4) How could I gather information that I don't currently have access to. (Resistance)
+1. How do I gather the information from bike (Bike Sensors)
+2. How can I talk to Peloton API to determine information about the ride I'm on (Rest API)
+3. How could I synchronise the Companion with the class I'm currently taking (App Design)
+4. How could I gather information that I don't currently have access to. (Resistance)
 
 # Bike Sensors
 
@@ -253,9 +253,9 @@ Having the readings is one thing (and believe me even that wasn't trivial to get
 
 A host of questions came up as I thought about how I'd interact...
 
-1) How would I know which ride I was doing
-2) How would I know when the ride started
-3) Could I determine were I'd be on the leader board
+1. How would I know which ride I was doing
+2. How would I know when the ride started
+3. Could I determine were I'd be on the leader board
 
 Ultimaltey I felt that I would likely have to press start on my app, at the time the ride started, actually this wouldn't be too hard given that most rides have a warm up where they explain how its all going to work, (which dial is which etc..) for those of us in the App, this part is wasted because we don't have the same numbers in the same positions as the bike users, but I understand they are catering for them.
 
