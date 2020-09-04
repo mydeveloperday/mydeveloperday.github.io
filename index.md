@@ -20,9 +20,9 @@ A couple of years ago my wife brought me a normal exercise bike as a present, it
 
 After a work trip to the states, I came home having put on another 4lbs (those massive portions and too much beer), I decided i needed to do something about it. About that time there was alot of hype about the Peloton Add in the States and  TV adverts were showing for Peloton here in the UK
 
-[Peloton Advert](https://www.youtube.com/watch?v=ijof8uw4OHs)
+[![Peloton Advert](https://img.youtube.com/vi/ijof8uw4OHs/0.jpg)](https://www.youtube.com/watch?v=ijof8uw4OHs)
 
-[Peloton UK Advert](https://www.youtube.com/watch?v=lVMG7lzRvuE)
+[![Peloton UK Advert](https://img.youtube.com/vi/lVMG7lzRvuE/0.jpg)](https://www.youtube.com/watch?v=lVMG7lzRvuE)
 
 
 The Bike is super expensive both for the bike itself but also for the monthly subscription, I couldn't justify buying the bike when I had a £300+ bike already that I wasn't using very often.
