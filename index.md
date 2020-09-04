@@ -38,15 +38,15 @@ I realized on looking at the website that Peloton have an IPad/IPhone app, I dow
 Using the App is likely not the same as using the bike, there are alot of bike featues you don't get. But it can be made a little better by buying a heart rate monitor (Wahoo TICKR) and a candence sensort (Wahoo Cadence)
 
 ![Wahoo Heart Rate Sensor](images/tickr.jpg){:width="200px"}
-[Wahoo TICKR](https://www.amazon.co.uk/Wahoo-TICKR-Heart-Monitor-Bluetooth/dp/B00INQVYZ8/ref=sxts_sxwds-bia-wc-p13n1_0?crid=M2WMBKYV1ZJF&cv_ct_cx=tickr+heart+rate+monitor&dchild=1&keywords=tickr+heart+rate+monitor&pd_rd_i=B00INQVYZ8&pd_rd_r=6f1c1ea4-45de-448f-8558-8d38029d2ebf&pd_rd_w=kNylq&pd_rd_wg=tF9QX&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=35FRCT1Z5QMZHM7XJ173&psc=1&qid=1599211385&sprefix=Tickr%2Caps%2C148&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618)
+[Wahoo TICKR - Amazon Link](https://www.amazon.co.uk/Wahoo-TICKR-Heart-Monitor-Bluetooth/dp/B00INQVYZ8/ref=sxts_sxwds-bia-wc-p13n1_0?crid=M2WMBKYV1ZJF&cv_ct_cx=tickr+heart+rate+monitor&dchild=1&keywords=tickr+heart+rate+monitor&pd_rd_i=B00INQVYZ8&pd_rd_r=6f1c1ea4-45de-448f-8558-8d38029d2ebf&pd_rd_w=kNylq&pd_rd_wg=tF9QX&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=35FRCT1Z5QMZHM7XJ173&psc=1&qid=1599211385&sprefix=Tickr%2Caps%2C148&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618)
 
 ![Wahoo Cadence Sensor](images/cadence.jpg){:width="200px"}
-[Wahoo Cadence](https://www.amazon.co.uk/Wahoo-Cadence-Sensor-Android-Computers/dp/B00L9XNFPY/ref=sxts_sxwds-bia-wc-p13n1_0?crid=QZ28HMWLI496&cv_ct_cx=wahoo+cadence+sensor&dchild=1&keywords=wahoo+cadence+sensor&pd_rd_i=B00L9XNFPY&pd_rd_r=0e77b4b5-04fe-4b62-aa97-ff34503ffd85&pd_rd_w=8V2om&pd_rd_wg=KI0cV&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=B6563MKQQVS60X52N6EN&psc=1&qid=1599211436&sprefix=wahoo%2Caps%2C167&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618)
+[Wahoo Cadence - Amazon Link](https://www.amazon.co.uk/Wahoo-Cadence-Sensor-Android-Computers/dp/B00L9XNFPY/ref=sxts_sxwds-bia-wc-p13n1_0?crid=QZ28HMWLI496&cv_ct_cx=wahoo+cadence+sensor&dchild=1&keywords=wahoo+cadence+sensor&pd_rd_i=B00L9XNFPY&pd_rd_r=0e77b4b5-04fe-4b62-aa97-ff34503ffd85&pd_rd_w=8V2om&pd_rd_wg=KI0cV&pf_rd_p=49535b66-f5c7-451e-8137-28786d545ec4&pf_rd_r=B6563MKQQVS60X52N6EN&psc=1&qid=1599211436&sprefix=wahoo%2Caps%2C167&sr=1-1-fdbae751-0fa5-4c0f-900b-865654896618)
 
 You don't need a Speed Sensor (for the App) as it won't record Speed and Distance (unlike the Bike) (Cadence and Speed sometimes come bundled together)
 
 ![Wahoo Speed Sensor](images/speed.jpg){:width="200px"}
-[Wahoo Speed Sensor](https://www.amazon.co.uk/Wahoo-Cadence-Sensor-Android-Computers/dp/B01E0YRQIA/ref=sr_1_3?dchild=1&keywords=wahoo+cadence+sensor+and+speed&qid=1599211498&sr=8-3)
+[Wahoo Speed Sensor - Amazon Link](https://www.amazon.co.uk/Wahoo-Cadence-Sensor-Android-Computers/dp/B01E0YRQIA/ref=sr_1_3?dchild=1&keywords=wahoo+cadence+sensor+and+speed&qid=1599211498&sr=8-3)
 
 But the App works just fine, and keeping up with the candence called out by the Instructor is excellent, and I pretty much used the bike EVERY day, doing at least one ride.
 
@@ -89,19 +89,19 @@ I settled on the Assioma Uno, this gives you a recording on the left pedal that 
 These pedals use clip in shoes (I'd never used those before), so I purchased a pair of reasonable cheap cycling shoes.
 
 ![Shoes](images/shoes.jpg){:width="200px"}
-[Cycling Shoes](https://www.amazon.co.uk/gp/product/B015RJIJRE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+[Cycling Shoes - Amazon Link](https://www.amazon.co.uk/gp/product/B015RJIJRE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 you may need some cleats to match
 
 ![Cleats](images/cleats.jpg){:width="200px"}
-[Cleats](https://www.amazon.co.uk/BV-Cleats-Compatible-Delta-Degree/dp/B01B8P8FL6/ref=sr_1_5?crid=3AIXB6GDHYS1X&dchild=1&keywords=delta+cleats&qid=1599213157&sprefix=Delta+Cl%2Caps%2C152&sr=8-5)
+[Cleats Amazon Link](https://www.amazon.co.uk/BV-Cleats-Compatible-Delta-Degree/dp/B01B8P8FL6/ref=sr_1_5?crid=3AIXB6GDHYS1X&dchild=1&keywords=delta+cleats&qid=1599213157&sprefix=Delta+Cl%2Caps%2C152&sr=8-5)
 
 Having the power pedals doesn't change the way the Peloton App works (sadly), there is no support in the ipad or iphone app to add them, but they can be combined with a cycle computer or an iphone app to give you a power reading.
 
 I actually used the PowerTap iphone app, this was Free and allowed me to show multiple readings
 
 ![Power Tap App](images/powertap.png){:width="200px"}
-[Power Tap App](https://apps.apple.com/gb/app/powertap-mobile/id672266418)
+[Power Tap App - Apple App Store Link](https://apps.apple.com/gb/app/powertap-mobile/id672266418)
 
 The Assioma PowerPedals actually have a built in Cadence Sensor so you don't need the Wahoo one above (I actually never tied pairing that with the Peloton App, because I run the App on my IPad and the PowerTap app on my IPhone at the same time.
 
@@ -111,13 +111,13 @@ Having the PowerTap app, means I could record speed and distance, I went back to
 
 All of this gets kind of cluttered so I purchased holders to hold both on the bike, for the ipad I use
 
-![IPad Holder](images/holder1.png){:width="200px"}
-[IPad Holder](https://www.amazon.co.uk/gp/product/B083JSYGWD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+![IPad Holder](images/holder1.jpg){:width="200px"}
+[IPad Holder - Amazon Link](https://www.amazon.co.uk/gp/product/B083JSYGWD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 and for the phone I picked
 
-![IPhone Holder](images/holder2.png){:width="200px"}
-[IPhone Holder](https://www.amazon.co.uk/gp/product/B07LGYPLP5/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+![IPhone Holder](images/holder2.jpg){:width="200px"}
+[IPhone Holder - Amazon Link](https://www.amazon.co.uk/gp/product/B07LGYPLP5/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 
 There was no real reason why I chose one over the other, I think the second one could have been used for both. I was mainly looking for something that would hold both tight, as when you are riding especially out of the sadle the bike can shake a little and I didn't want them to fall off. 
 
@@ -143,7 +143,7 @@ Along the way I purchase someother items,
 A really large fan (I mean its huge! about the size of a car tyre), but totally awesome, my advice is make sure whatever fan you purchase its remote control
 
 ![Fan](images/fan.jpg){:width="200px"}
-[Fan](https://www.amazon.co.uk/BXFF53001GB-Velocity-Mountable-Circulator-Control/dp/B084XM72T8/ref=sr_1_4?crid=1BRA0RK0LHTK0&dchild=1&keywords=fan+black+and+decker&qid=1599214294&sprefix=Fan+Black+and+De%2Caps%2C151&sr=8-4)
+[Fan - Amazon Link](https://www.amazon.co.uk/BXFF53001GB-Velocity-Mountable-Circulator-Control/dp/B084XM72T8/ref=sr_1_4?crid=1BRA0RK0LHTK0&dchild=1&keywords=fan+black+and+decker&qid=1599214294&sprefix=Fan+Black+and+De%2Caps%2C151&sr=8-4)
 
 I know people use a smart plug to turn it on, but this one comes with a remote  so you can control the speed. (like I said this is massive but toally amazing) and you need it because once you start pushing PBs you really sweat a whole load more..
 
@@ -151,7 +151,8 @@ There were a few other items like extra long iphone charing cables that I bring 
 
 A water bottle is a must (and holder if you do't have one), some weights like these
 
-https://www.amazon.co.uk/PROIRON-neoprene-dumbbell-2x-5kg/dp/B01C9P0S6E/ref=sr_1_6?dchild=1&keywords=dumbbells&qid=1599214593&sr=8-6
+![Weights](images/weights.jpg){:width="200px"}
+[Weights - Amazon Link](https://www.amazon.co.uk/PROIRON-neoprene-dumbbell-2x-5kg/dp/B01C9P0S6E/ref=sr_1_6?dchild=1&keywords=dumbbells&qid=1599214593&sr=8-6)
 
 # Peloton Companion App
 
